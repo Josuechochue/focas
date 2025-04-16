@@ -1,0 +1,75 @@
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Focas Marinas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #0000FF;
+      color: #FFFFFF;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 10px;
+      border: 2px solid #FFFFFF;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    h2 {
+      margin-top: 40px;
+    }
+    
+    img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      margin: 20px 0;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Focas Marinas: Belleza y Encanto en el Océano</h1>
+    <p>Las focas marinas son criaturas fascinantes que habitan en los océanos de todo el mundo. Con su pelaje suave y brillante, sus ojos grandes y expresivos, y su comportamiento juguetón, las focas marinas son una de las especies más adorables del reino animal.</p>
+    <img src="imagen1.jpg" alt="Foca marina">
+    
+    <h2>Características Físicas</h2>
+    <p>Las focas marinas tienen un cuerpo aerodinámico y flexible que les permite nadar con facilidad y agilidad en el agua. Su pelaje es grueso y suave, y puede variar en color desde el marrón claro hasta el gris oscuro. Sus ojos grandes y redondos son muy expresivos, y su nariz pequeña y húmeda es muy sensible.</p>
+    <img src="imagen2.jpg" alt="Foca marina nadando">
+    
+    <h2>Comportamiento</h2>
+    <p>Las focas marinas son animales sociales que viven en colonias en las costas rocosas y en las islas. Son muy juguetonas y curiosas, y se les puede ver nadando y jugando en el agua. También son muy protectoras de sus crías, y las hembras suelen cuidar a sus pequeños con gran dedicación.</p>
+    <img src="imagen3.jpg" alt="Foca marina con su cría">
+    
+    <h2>Hábitat</h2>
+    <p>Las focas marinas se encuentran en todos los océanos del mundo, desde las aguas frías del Ártico y el Antártico hasta las aguas cálidas de los trópicos. Prefieren las áreas con rocas y arrecifes, donde pueden encontrar alimento y refugio.</p>
+    <img src="imagen4.jpg" alt="Hábitat de focas marinas">
+    
+    <h2>Importancia Ecológica</h2>
+    <p>Las focas marinas juegan un papel importante en el ecosistema marino. Son depredadoras y se alimentan de peces, crustáceos y otros invertebrados, lo que ayuda a mantener el equilibrio de la cadena alimentaria.</p>
+    <img src="imagen5.jpg" alt="Foca marina cazando">
+    
+    <h2>Conservación</h2>
+    <p>Desafortunadamente, las focas marinas enfrentan muchos desafíos en la actualidad, como la pérdida de hábitat, la contaminación y la caza excesiva. Es importante tomar medidas para proteger a estas criaturas increíbles y preservar su hábitat para las generaciones futuras.</p>
+    <img src="imagen6.jpg" alt="Conservación de focas marinas">
+    
+    <h2>¿Qué puedes hacer para ayudar?</h2>
+    <p>Aprende más sobre las focas marinas y su hábitat. Apoya a las organizaciones que trabajan para proteger a las focas marinas y su hábitat. Reduce tu impacto en el medio ambiente y evita contaminar los océanos.</p>
+    <img src="imagen7.jpg" alt="Ayuda a las focas marinas">
+  </div>
+</body>
+</html>
+```
